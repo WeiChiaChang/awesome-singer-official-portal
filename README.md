@@ -1,10 +1,3 @@
-<p align="center">
-  <a target="_blank" href="https://github.com/WeiChiaChang/awesome-singer-official-portal">
-    <img alt="awesome singer official portal" src="https://github.com/WeiChiaChang/awesome-singer-official-portal/blob/master/awesome-singer-official-portal.jpg">
-  </a>
-</p>
-
-> Image was created through [memegenerator](https://imgflip.com/memegenerator).
 # Awesome Singer Official Portal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome singer official portals.
