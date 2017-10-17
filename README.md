@@ -784,3 +784,6 @@ A curated list of awesome singer official portals.
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/WeiChiaChang/awesome-singer-official-portal) first.
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/WeiChiaChang/awesome-singer-official-portal) by adding :+1: to them. Pull requests will be merged when their votes reach **5**.
+
+# License
+MIT © [WeiChiaChang](https://github.com/WeiChiaChang)
