@@ -1,3 +1,4 @@
+![awesome singer official portal](https://github.com/WeiChiaChang/awesome-singer-official-portal/blob/master/awesome-singer-official-portal.png)
 # Awesome Singer Official Portal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome singer official portals.
