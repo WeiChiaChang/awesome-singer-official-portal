@@ -2,7 +2,7 @@
 
 A curated list of awesome singer official portals.
 
-> The reason why I want to sort out these doc since I think singers (or bands) are much more sensitive and know how to present art with their creative ways. As a front-end developer, you may be inspired by some of the concepts from these portals and even put it into practice. <b>There is one thing to inform</b> is that although it's called `Awesome Singer Offical Portal` , few of the these portal's design taste & user experience are disappointing and there is still room for improvement. The simple description of singers are derived from wikipedia, and these lists are placed in alphabetical order.
+> The reason why I want to sort out these doc since I think singers (or bands) are much more sensitive and know how to present art with their creative ways. As a front-end developer, you may be inspired by some of the concepts from these portals and even put it into practice. <b>There is one thing to inform</b> is that although it's called `Awesome Singer Official Portal` , few of the these portal's design taste & user experience are disappointing and there is still room for improvement. The simple description of singers are derived from wikipedia, and these lists are placed in alphabetical order.
 
 - [A](#a)
     - [Adele](#adele)
