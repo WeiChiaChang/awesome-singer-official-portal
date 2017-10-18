@@ -563,7 +563,7 @@ A curated list of awesome singer official portals.
 
 ## Prince
 
-*Prince Rogers Nelson was an American singer, songwriter, multi-instrumentalist, and record producer. *
+*Prince Rogers Nelson was an American singer, songwriter, multi-instrumentalist, and record producer.*
 
 * [Prince](https://www.officialprincemusic.com/)
 
