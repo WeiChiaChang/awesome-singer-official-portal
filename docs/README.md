@@ -128,7 +128,6 @@ A curated list of awesome singer official portals.
     - [WORLD ORDER](#world-order)
 - [ X](#x)
     - [X Japan](#x-japan)
-    - [Coldplay](#coldplay)
 - [Y](#y)
     - [Yasutaka Nakata](#yasutaka-nakata)
     - [YUI](#yui)
