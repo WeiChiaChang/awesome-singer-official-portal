@@ -1,3 +1,9 @@
+<a style="text-decoration: none;" target="_blank" href="https://github.com/WeiChiaChang/awesome-singer-official-portal">
+    <img src="https://img.shields.io/github/stars/WeiChiaChang/awesome-singer-official-portal.svg?style=social&label=Star" alt="github stars"> 
+</a>
+<a style="text-decoration: none;" target="_blank" href="https://github.com/WeiChiaChang" title="Follow @WeiChiaChang on GitHub">
+    <img src="https://img.shields.io/github/followers/WeiChiaChang.svg?style=social&label=Follow" alt="GitHub followers">
+</a>
 # Awesome Singer Official Portal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome singer official portals.
@@ -15,8 +21,8 @@ A curated list of awesome singer official portals.
     - [Beyoncé](#beyoncé)
     - [Bon Jovi](#bon-jovi)
     - [Bruno Mars](#bruno-mars)
-    - [Bump Of Chickens](#bump-of-chickens)
-    - [B'z](#b'z)
+    - [Bump Of Chicken](#bump-of-chicken)
+    - [B'z](#b-z)
 - [C](#c)
     - [Capsule](#capsule)
     - [Coldplay](#coldplay)
@@ -36,7 +42,7 @@ A curated list of awesome singer official portals.
     - [Flumpool](#flumpool)
     - [f(x)](#f(x))
 - [G](#g)
-    - [Girls' Generation](#girls'-generation)
+    - [Girls' Generation](#girls-generation)
     - [George Michael](#george-michael)
     - [Greeeen](#greeeen)
 - [H](#h)
