@@ -91,6 +91,7 @@ A curated list of awesome singer official portals.
     - [Coldplay](#coldplay)
 - [R](#r)
     - [Radwimps](#radwimps)
+    - [Rich Chigga](#rich-chigga)
     - [Rihanna](#rihanna)
 - [S](#s)
     - [Sakanaction](#sakanaction)
@@ -583,13 +584,19 @@ A curated list of awesome singer official portals.
 
 * [Radwimps](http://radwimps.jp/)
 
+## Rich Chigga
+
+*Rich Chigga is an Indonesian rapper and comedian from Jakarta. He is best known for his viral debut single "Dat $tick".
+
+* [Rich Chigga](https://soundcloud.com/richbrian)
+
 ## Rihanna
 
 *Robyn Rihanna Fenty, known by the mononym Rihanna, is a Barbadian singer, songwriter, and actress.*
 
 * [Rihanna](http://www.rihannanow.com/)
 
-# S
+#
 
 ## Sakanaction
 
