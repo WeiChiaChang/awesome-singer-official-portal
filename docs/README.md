@@ -98,6 +98,7 @@ A curated list of awesome singer official portals.
     - [Coldplay](#coldplay)
 - [R](#r)
     - [Radwimps](#radwimps)
+    - [Rich Chigga](#rich-chigga)
     - [Rihanna](#rihanna)
 - [S](#s)
     - [Sakanaction](#sakanaction)
@@ -127,7 +128,7 @@ A curated list of awesome singer official portals.
     - [Wagakki Band](#wagakki-band)
     - [Wednesday Campanella](#wednesday-campanella)
     - [WORLD ORDER](#world-order)
-- [ X](#x)
+- [X](#x)
     - [X Japan](#x-japan)
 - [Y](#y)
     - [Yanaginagi](#yanaginagi)
@@ -589,6 +590,12 @@ A curated list of awesome singer official portals.
 *Radwimps is a Japanese rock band, who debuted independently in 2003 and later on major label Toshiba EMI in 2005.*
 
 * [Radwimps](http://radwimps.jp/)
+
+## Rich Chigga
+
+*Rich Chigga is an Indonesian rapper and comedian from Jakarta. He is best known for his viral debut single "Dat $tick".*
+
+* [Rich Chigga](https://soundcloud.com/richbrian)
 
 ## Rihanna
 
