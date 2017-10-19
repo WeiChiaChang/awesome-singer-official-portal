@@ -12,7 +12,10 @@ A curated list of awesome singer official portals.
 > The reason why I want to sort out these doc since I think singers (or bands) are much more sensitive and know how to present art with their creative ways. As a front-end developer, you may be inspired by some of the concepts from these portals and even put it into practice. <b>There is one thing to inform</b> is that although it's called `Awesome Singer Official Portal` , few of the these portal's design taste & user experience are disappointing and there is still room for improvement. The simple description of singers are derived from wikipedia, and these lists are placed in alphabetical order.
 
 - [A](#a)
+    - [A$AP Rocky](#a$ap-rocky)
+    - [AC/DC](#ac/dc)
     - [Adele](#adele)
+    - [Adam Levine](#adam-levine)
     - [Aimer](#aimer)
     - [Ai Otsuka](#ai-otsuka)
     - [Alan Walker](#alan-walker)
@@ -25,12 +28,16 @@ A curated list of awesome singer official portals.
     - [Bump Of Chicken](#bump-of-chicken)
     - [B'z](#b-z)
 - [C](#c)
+    - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
+    - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
     - [DJ Okawari](#dj-okawari)
+    - [Dr. Dre](#dr.-dre)
+    - [Drake](#drake)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
@@ -68,6 +75,7 @@ A curated list of awesome singer official portals.
     - [Kana Nishino](#kana-nishino)
     - [Kayne West](#kayne-west)
     - [Kelly Clarkson](#kelly-clarkson)
+    - [Kendrick Lamar](#kendrick-lamar)
     - [Kenichiro Nishihara](#kenichiro-nishihara)
     - [Kenshi Yonezu](#kenshi-yonezu)
 - [L](#l)
@@ -89,19 +97,21 @@ A curated list of awesome singer official portals.
     - [Namie Amuro](#namie-amuro)
     - [Nana Mizuki](#nana-mizuki)
 - [O](#o)
+    - [One Direction](#one-direction)
     - [ONE OK ROCK](#one-ok-rock)
 - [P](#p)
     - [Pay Money To My Pain](#pay-money-to-my-pain)
     - [Perfume](#perfume)
     - [Phil Collins](#phil-collins)
     - [P!nk](#p!nk)
+    - [Pitbull](#pitbull)
     - [Prince](#prince)
 - [Q](#q)
     - [Queen](#queen)
-    - [Coldplay](#coldplay)
 - [R](#r)
     - [Radwimps](#radwimps)
     - [Rich Chigga](#rich-chigga)
+    - [Ricky Martin](#ricky-martin)
     - [Rihanna](#rihanna)
 - [S](#s)
     - [Sakanaction](#sakanaction)
@@ -111,6 +121,7 @@ A curated list of awesome singer official portals.
     - [Sia](#sia)
     - [Sid](#sid)
     - [Silent Siren](#silent-siren)
+    - [Snoop Dogg](#snoop-dogg)
     - [Sōtaisei Riron](#sōtaisei-riron)
     - [Spangle call Lilli line](#spangle-call-lilli-line)
     - [SPYAIR](#spyair)
@@ -118,6 +129,7 @@ A curated list of awesome singer official portals.
     - [Takashi Murkami](#takashi-murkami)
     - [Taylor Swift](#taylor-swift)
     - [The Beatles](#the-beatles)
+    - [The Rolling Stones](#the-rolling-stones)
     - [toe](#toe)
     - [Toki Asako](#toki-asako)
     - [TOKiMONSTA](#tokimonsta)
@@ -146,11 +158,29 @@ A curated list of awesome singer official portals.
 
 # A
 
+## A$AP Rocky
+
+*ASAP Rocky is an American rapper, songwriter, record producer, record executive, director and actor from the Harlem neighborhood of Manhattan, New York*
+
+* [A$AP Rocky](http://www.asapmob.com/)
+
+## AC/DC
+
+*AC/DC are an Australian hard rock band. They have also been considered a heavy metal band.* 
+
+* [AC/DC](http://www.acdc.com/) 
+
 ## Adele
 
 *Adele Laurie Blue Adkins MBE is an English singer-songwriter.*
 
 * [Adele](http://adele.com/home/)
+
+## Adam Levine
+
+*Adam Levineis an American singer, songwriter, multi-instrumentalist, actor, and record producer. He is the lead singer for the pop rock band Maroon 5.*
+
+* [Adam Levine](https://www.instagram.com/adamlevine/?hl=zh-tw)
 
 ## Aimer 
 
@@ -222,11 +252,24 @@ A curated list of awesome singer official portals.
 
 # C
 
+## Calvin Harris
+
+* Calvin Harris is a Scottish record producer, DJ, singer, and songwriter.*
+
+* [Calvin Harris](http://calvinharris.com/)
+
 ## Capsule
 
 *Capsule is a Japanese electronica band consisting of record producer Yasutaka Nakata and vocalist Toshiko Koshijima.*
 
 * [Capsule](http://capsule-official.com/)
+
+## Chris Brown
+
+*Chris Brown is an American singer, songwriter, and actor.*
+
+* [Chris Brown](http://heartbreakonafullmoon.chrisbrownworld.com/)
+
 
 ## Coldplay
 
@@ -253,6 +296,18 @@ A curated list of awesome singer official portals.
 *DJ Okawari is an independent Japanese DJ, record producer and composer born and based in Shizuoka, Japan.*
 
 * [DJ Okawari](http://www.djokawari.com/)
+
+## Dr. Dre
+
+*Dr. Dre is an American rapper, record producer, and entrepreneur. He is the founder and current CEO of Aftermath Entertainment and Beats Electronics. Dre was previously the co-owner of, and an artist on, Death Row Records.*
+
+* [Dr. Dre](https://www.drdre.com/)
+
+## Drake
+
+*Drake is a Canadian rapper, singer, songwriter, record producer, actor, and entrepreneur.*
+
+* [Drake](http://www.drakeofficial.com/)
 
 # E
 
@@ -448,6 +503,12 @@ A curated list of awesome singer official portals.
 
 * [Kelly Clarkson](https://www.kellyclarkson.com/)
 
+## Kendrick Lamar
+
+*Kendrick is an American rapper and songwriter.*
+
+* [Kendrick Lamar](http://www.kendricklamar.com/)
+
 ## Kenichiro Nishihara
 
 *Japanese composer, music arranger and musician.*
@@ -558,6 +619,12 @@ A curated list of awesome singer official portals.
 
 # O
 
+## One Direction
+
+*One Direction are an English-Irish pop boy band based in London, composed of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson, and previously, Zayn Malik until his departure from the band on 25 March 2015.*
+
+* [One Direction](http://www.onedirectionmusic.com/us/home)
+
 ## ONE OK ROCK
 
 *One Ok Rock, stylized as ONE OK ROCK, is a Japanese rock band formed in Tokyo, Japan in 2005.*
@@ -590,6 +657,12 @@ A curated list of awesome singer official portals.
 
 * [P!NK](http://whataboutus.pinkspage.com/)
 
+## Pitbull
+
+*Pitbull*
+
+* [Pitbull](http://climatechange.pitbullmusic.com/)
+
 ## Prince
 
 *Prince Rogers Nelson was an American singer, songwriter, multi-instrumentalist, and record producer.*
@@ -617,6 +690,12 @@ A curated list of awesome singer official portals.
 *Rich Chigga is an Indonesian rapper and comedian from Jakarta. He is best known for his viral debut single "Dat $tick".*
 
 * [Rich Chigga](https://soundcloud.com/richbrian)
+
+## Ricky Martin
+
+*Ricky Martin is a Puerto Rican singer, actor and author.*
+
+* [Ricky Martin](http://www.rickymartinmusic.com/)
 
 ## Rihanna
 
@@ -668,6 +747,12 @@ A curated list of awesome singer official portals.
 
 * [Silent Siren](http://silent-siren.com/)
 
+## Snoop Dogg
+
+*Snopp Dogg is an American rapper, singer, songwriter, record producer and actor.*
+
+* [Snoop Dogg](http://snoopdogg.com/)
+
 ## Sōtaisei Riron
 
 *Sōtaisei Riron is a Japanese rock band formed in Tokyo in September 2006.*
@@ -705,6 +790,12 @@ A curated list of awesome singer official portals.
 *The Beatles were an English rock band formed in Liverpool in 1960.*
 
 * [The Beatles](https://www.thebeatles.com/)
+
+## The Rolling Stones
+
+*The Rolling Stones are an English rock band formed in London in 1962.*
+
+* [The Rolling Stones](http://www.rollingstones.com/)
 
 ## toe
 
