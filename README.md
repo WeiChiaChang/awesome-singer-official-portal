@@ -586,7 +586,7 @@ A curated list of awesome singer official portals.
 
 ## Rich Chigga
 
-*Rich Chigga is an Indonesian rapper and comedian from Jakarta. He is best known for his viral debut single "Dat $tick".
+*Rich Chigga is an Indonesian rapper and comedian from Jakarta. He is best known for his viral debut single "Dat $tick".*
 
 * [Rich Chigga](https://soundcloud.com/richbrian)
 
