@@ -322,6 +322,12 @@ A curated list of awesome singer official portals.
 
 * [Greeeen](http://greeeen.co.jp/)
 
+##Green Day
+
+*Green Day is an American punk rock band formed in 1987. The band has consisted of lead vocalist and guitarist Billie Joe Armstrong, bassist and backing vocalist Mike Dirnt, and drummer Tré Cool for the majority of its existence.*
+
+* [Green Day](http://www.greenday.com/)
+
 # H
 
 ## Hikaru Utada
