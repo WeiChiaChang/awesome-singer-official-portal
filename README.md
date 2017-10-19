@@ -48,6 +48,7 @@ A curated list of awesome singer official portals.
     - [Imagine Dragons](#imagine-dragons)
     - [IU](#iu)
 - [J](#j)
+    - [Jaon Mraz](#jason-mraz)
     - [Jay-Z](#jay-z)
     - [Jessie J](#jessie-j)
     - [John Mayer](#john-mayer)
@@ -364,6 +365,12 @@ A curated list of awesome singer official portals.
 * [IU](http://ifaveent.co.kr/?p=11)
 
 # J
+
+## Jason Mraz
+
+*Jason Thomas Mraz is an American singer-songwriter.*
+
+* [Jason Mraz](http://jasonmraz.com/)
 
 ## Jay-Z
 
