@@ -47,6 +47,7 @@ A curated list of awesome singer official portals.
     - [Girls' Generation](#girls-generation)
     - [George Michael](#george-michael)
     - [Greeeen](#greeeen)
+    - [Green Day](#green-day)
 - [H](#h)
     - [Hikaru Utada](#hikaru-utada)
     - [HKT 48](#hkt-48)
@@ -55,6 +56,7 @@ A curated list of awesome singer official portals.
     - [Imagine Dragons](#imagine-dragons)
     - [IU](#iu)
 - [J](#j)
+    - [Jason Mraz](#jason-mraz)
     - [Jay-Z](#jay-z)
     - [Jessie J](#jessie-j)
     - [John Mayer](#john-mayer)
@@ -256,7 +258,7 @@ A curated list of awesome singer official portals.
 
 ## East River String Band
 
-*Eden and John's East River String Band are a New York City-based duo who play country blues from the 1920s and 1930s. The members are John Heneghan (guitar, mandolin and vocals) and Eden Brower (ukulele and vocals).
+*Eden and John's East River String Band are a New York City-based duo who play country blues from the 1920s and 1930s. The members are John Heneghan (guitar, mandolin and vocals) and Eden Brower (ukulele and vocals).*
 
 * [East River String Band](http://www.eastriverstringband.com/)
 
@@ -336,6 +338,12 @@ A curated list of awesome singer official portals.
 
 * [Greeeen](http://greeeen.co.jp/)
 
+## Green Day
+
+*Green Day is an American punk rock band formed in 1987. The band has consisted of lead vocalist and guitarist Billie Joe Armstrong, bassist and backing vocalist Mike Dirnt, and drummer Tré Cool for the majority of its existence.*
+
+* [Green Day](http://www.greenday.com/)
+
 # H
 
 ## Hikaru Utada
@@ -371,6 +379,12 @@ A curated list of awesome singer official portals.
 * [IU](http://ifaveent.co.kr/?p=11)
 
 # J
+
+## Jason Mraz
+
+*Jason Thomas Mraz is an American singer-songwriter.*
+
+* [Jason Mraz](http://jasonmraz.com/)
 
 ## Jay-Z
 
