@@ -652,11 +652,11 @@ A curated list of awesome singer official portals.
 
 ## Pitbull
 
-*Pitbull *
+*Pitbull*
 
 * [Pitbull](http://climatechange.pitbullmusic.com/)
 
-#Prince is an American rapper.# 
+## Prince
 
 *Prince Rogers Nelson was an American singer, songwriter, multi-instrumentalist, and record producer.*
 
