@@ -46,7 +46,6 @@ A curated list of awesome singer official portals.
     - [Girls' Generation](#girls-generation)
     - [George Michael](#george-michael)
     - [Greeeen](#greeeen)
-    - [Green Day](#green-day)
 - [H](#h)
     - [Hikaru Utada](#hikaru-utada)
     - [HKT 48](#hkt-48)
@@ -377,12 +376,6 @@ A curated list of awesome singer official portals.
 *Greeeen is a Japanese pop rock/hip hop/breakbeat vocal group from Kōriyama in Fukushima Prefecture, comprising the all-male four members Hide, Navi, Kuni, and Soh.*
 
 * [Greeeen](http://greeeen.co.jp/)
-
-## Green Day
-
-*Green Day is an American punk rock band formed in 1986 by lead vocalist and guitarist Billie Joe Armstrong and bassist Mike Dirnt. *
-
-* [Green Day](http://www.greenday.com/)
 
 # H
 
