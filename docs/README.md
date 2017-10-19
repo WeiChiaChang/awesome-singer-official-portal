@@ -130,6 +130,7 @@ A curated list of awesome singer official portals.
 - [ X](#x)
     - [X Japan](#x-japan)
 - [Y](#y)
+    - [Yanaginagi](#yanaginagi)
     - [Yasutaka Nakata](#yasutaka-nakata)
     - [YUI](#yui)
     - [Yui Aragaki](#yui-aragaki)
@@ -758,6 +759,12 @@ A curated list of awesome singer official portals.
 *Yasutaka Nakata is a Japanese DJ, record producer, composer and songwriter. He formed the band Capsule in 1997 with vocalist Toshiko Koshijima and himself as composer and record producer when both were 17.*
 
 * [Yasutaka Nakata](http://yasutaka-nakata.com/)
+
+## Yanaginagi
+
+* Yanaginagi is a Japanese singer, songwriter and lyricist from Osaka, Japan and is signed to Geneon. Initially, she sang and produced music independently beginning in 2005. Between 2009 and 2011, Yanagi was the guest vocalist of the J-pop band Supercell.
+
+* [Yanaginagi](http://yanaginagi.net/)
 
 ## Kayne West
 
