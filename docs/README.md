@@ -254,7 +254,7 @@ A curated list of awesome singer official portals.
 
 ## Calvin Harris
 
-* Calvin Harris is a Scottish record producer, DJ, singer, and songwriter.*
+*Calvin Harris is a Scottish record producer, DJ, singer, and songwriter.*
 
 * [Calvin Harris](http://calvinharris.com/)
 
