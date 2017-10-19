@@ -32,6 +32,7 @@ A curated list of awesome singer official portals.
     - [DAOKO](#daoko)
     - [DJ Okawari](#dj-okawari)
 - [E](#e)
+    - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
     - [Egoist](#egoist)
     - [Elton John](#elton-john)
@@ -252,6 +253,12 @@ A curated list of awesome singer official portals.
 * [DJ Okawari](http://www.djokawari.com/)
 
 # E
+
+## East River String Band
+
+*Eden and John's East River String Band are a New York City-based duo who play country blues from the 1920s and 1930s. The members are John Heneghan (guitar, mandolin and vocals) and Eden Brower (ukulele and vocals).
+
+* [East River String Band](http://www.eastriverstringband.com/)
 
 ## Ed Sheeran
 
