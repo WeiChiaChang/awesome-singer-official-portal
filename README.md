@@ -755,7 +755,7 @@ A curated list of awesome singer official portals.
 
 ## Yanaginagi
 
-* Nagi Yanagi is a Japanese singer, songwriter and lyricist from Osaka, Japan and is signed to Geneon. Initially, she sang and produced music independently beginning in 2005. Between 2009 and 2011, Yanagi was the guest vocalist of the J-pop band Supercell.
+* Yanaginagi is a Japanese singer, songwriter and lyricist from Osaka, Japan and is signed to Geneon. Initially, she sang and produced music independently beginning in 2005. Between 2009 and 2011, Yanagi was the guest vocalist of the J-pop band Supercell.
 
 * [Yanaginagi](http://yanaginagi.net/)
 
