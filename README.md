@@ -121,7 +121,7 @@ A curated list of awesome singer official portals.
     - [Wagakki Band](#wagakki-band)
     - [Wednesday Campanella](#wednesday-campanella)
     - [WORLD ORDER](#world-order)
-- [ X](#x)
+- [X](#x)
     - [X Japan](#x-japan)
 - [Y](#y)
     - [Yanaginagi](#yanaginagi)
@@ -596,7 +596,7 @@ A curated list of awesome singer official portals.
 
 * [Rihanna](http://www.rihannanow.com/)
 
-#
+# S
 
 ## Sakanaction
 
