@@ -45,6 +45,7 @@ A curated list of awesome singer official portals.
     - [Fall Out Boy](#fall-out-boy)
     - [Flo Rida](#flo-rida)
     - [Flumpool](#flumpool)
+    - [Foo Fighters](#foo-fighters)
     - [f(x)](#f(x))
 - [G](#g)
     - [Girls' Generation](#girls-generation)
@@ -163,9 +164,9 @@ A curated list of awesome singer official portals.
 
 ## AC/DC
 
-*AC/DC are an Australian hard rock band. They have also been considered a heavy metal band.* 
+*AC/DC are an Australian hard rock band. They have also been considered a heavy metal band.*
 
-* [AC/DC](http://www.acdc.com/) 
+* [AC/DC](http://www.acdc.com/)
 
 ## Adele
 
@@ -179,7 +180,7 @@ A curated list of awesome singer official portals.
 
 * [Adam Levine](https://www.instagram.com/adamlevine/?hl=zh-tw)
 
-## Aimer 
+## Aimer
 
 *Aimer is a Japanese pop singer and lyricist signed to SME Records and managed by FOURseam.*
 
@@ -358,7 +359,7 @@ A curated list of awesome singer official portals.
 
 * [Fall Out Boy](https://falloutboy.com/)
 
-## Flo Rida 
+## Flo Rida
 
 *Tramar Lacel Dillard, better known by his stage name Flo Rida, is an American rapper, singer and songwriter from Carol City, Florida.*
 
@@ -369,6 +370,12 @@ A curated list of awesome singer official portals.
 *Flumpool is a four-man Japanese pop-rock band.*
 
 * [Flumpool](http://www.flumpool.jp/english/)
+
+## Foo Fighters
+
+*Foo Fighters is an American rock band, formed in Seattle, Washington in 1994.*
+
+* [Foo Fighters](https://foofighters.com/)
 
 ## f(x)
 
@@ -409,14 +416,14 @@ A curated list of awesome singer official portals.
 *Utada Hikaru, who also goes by the mononym Utada, is a Japanese singer and songwriter.*
 
 * [Hikaru Utada](http://www.utadahikaru.jp/en/)
- 
+
 ## HKT 48
 
 *HKT48 is a Japanese idol girl group produced by Yasushi Akimoto.*
 
 * [HKT-48](http://www.hkt48.jp/)
 
-# I 
+# I
 
 ## Ikimono Gakari
 
@@ -778,7 +785,7 @@ A curated list of awesome singer official portals.
 
 *Spyair is a Japanese rock band from Nagoya, Japan, formed in 2005.*
 
-* [SPYAIR](http://www.spyair.net/) 
+* [SPYAIR](http://www.spyair.net/)
 
 # T
 
