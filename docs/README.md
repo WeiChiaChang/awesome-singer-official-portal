@@ -25,6 +25,7 @@ A curated list of awesome singer official portals.
     - [Avril Lavigne](#avril-lavigne)
 - [B](#b)
     - [Beyoncé](#beyoncé)
+    - [Black Eyed Peas](#black-eyed-peas)
     - [Bon Jovi](#bon-jovi)
     - [Bruno Mars](#bruno-mars)
     - [Bump Of Chicken](#bump-of-chicken)
@@ -122,6 +123,7 @@ A curated list of awesome singer official portals.
     - [Scandal](#scandal)
     - [Sia](#sia)
     - [Sid](#sid)
+    - [Sigur Rós](#sigur-rós)
     - [Silent Siren](#silent-siren)
     - [Snoop Dogg](#snoop-dogg)
     - [Sōtaisei Riron](#sōtaisei-riron)
@@ -221,6 +223,12 @@ A curated list of awesome singer official portals.
 *Beyoncé Giselle Knowles-Carter is an American singer, songwriter, dancer, and actress.*
 
 * [Beyoncé](https://www.beyonce.com/)
+
+## Black Eyed Peas
+
+*Black Eyed Peas are an American group, consisting of rappers will<span>.i.am, apl<span>.de.ap, Taboo, and Fergie.*
+
+* [Black Eyed Peas](http://www.blackeyedpeas.com/Black-Eyed-Peas)
 
 ## Bob Dylan
 
@@ -742,6 +750,12 @@ A curated list of awesome singer official portals.
 *SID is a Japanese visual kei rock band, formed in 2003 and signed to Sony Records.*
 
 * [Sid](http://sid-web.info/pc_index.html)
+
+## Sigur Rós
+
+*Sigur Rós is an Icelandic post-rock band from Reykjavík, who have been active since 1994.*
+
+* [Sigur Rós](https://sigur-ros.co.uk/)
 
 ## Silent Siren
 
