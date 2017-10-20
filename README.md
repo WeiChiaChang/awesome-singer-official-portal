@@ -81,7 +81,6 @@ A curated list of awesome singer official portals.
     - [Linkin Park](#linkin-park)
     - [LiSA](#lisa)
     - [Lisa Ono](#lisa-ono)
-    - [Logic](#logic)
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
@@ -563,12 +562,6 @@ A curated list of awesome singer official portals.
 *Lisa Ono is a popular Japanese-Brazilian bossa nova singer.*
 
 * [Lisa Ono](http://onolisa.com/en/top-en)
-
-## Logic
-
-*Sir Robert Bryson Hall II, known by his stage name Logic, is an American rapper, singer, songwriter, and record producer.*
-
-* [Logic](http://www.logicmerch.com/)
 
 # M
 
