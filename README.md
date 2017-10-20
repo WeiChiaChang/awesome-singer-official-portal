@@ -113,6 +113,7 @@ A curated list of awesome singer official portals.
     - [Scandal](#scandal)
     - [Sia](#sia)
     - [Sid](#sid)
+    - [Sigur Rós](#sigur-rós)
     - [Silent Siren](#silent-siren)
     - [Snoop Dogg](#snoop-dogg)
     - [Sōtaisei Riron](#sōtaisei-riron)
@@ -733,6 +734,12 @@ A curated list of awesome singer official portals.
 *SID is a Japanese visual kei rock band, formed in 2003 and signed to Sony Records.*
 
 * [Sid](http://sid-web.info/pc_index.html)
+
+## Sigur Rós
+
+*Sigur Rós is an Icelandic post-rock band from Reykjavík, who have been active since 1994.*
+
+* [Sigur Rós](https://sigur-ros.co.uk/)
 
 ## Silent Siren
 
