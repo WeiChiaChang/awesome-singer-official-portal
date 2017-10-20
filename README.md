@@ -28,6 +28,7 @@ A curated list of awesome singer official portals.
     - [Capsule](#capsule)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
+    - [Collective Soul](#collective-soul)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
@@ -90,7 +91,6 @@ A curated list of awesome singer official portals.
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
-    - [Muse](#muse)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
@@ -276,12 +276,17 @@ A curated list of awesome singer official portals.
 
 * [Chris Brown](http://heartbreakonafullmoon.chrisbrownworld.com/)
 
-
 ## Coldplay
 
 *Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London.*
 
 * [Coldplay](http://coldplay.com/)
+
+## Collective Soul
+
+*Collective Soul is an American rock band originally from Stockbridge, Georgia.*
+
+* [Collective Soul](http://www.collectivesoul.com/)
 
 # D
 
@@ -614,12 +619,6 @@ A curated list of awesome singer official portals.
 *Moumoon is a Japanese pop duo comprising YUKA and Kousuke Masaki.*
 
 * [Moumoon](http://www.moumoon.com/)
-
-## Muse
-
-*Muse are an English rock band from Teignmouth, Devon, formed in 1994.*
-
-* [Muse](http://muse.mu/)
 
 ## MYTH & ROID
 
