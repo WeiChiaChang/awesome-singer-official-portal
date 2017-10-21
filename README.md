@@ -39,6 +39,7 @@ A curated list of awesome singer official portals.
     - [Ed Sheeran](#ed-sheeran)
     - [Egoist](#egoist)
     - [Elton John](#elton-john)
+    - [Eluveitie](#eluveitie)
     - [Elvis Presley](#elvis-presley)
     - [Eminem](#eminem)
 - [F](#f)
@@ -338,6 +339,12 @@ A curated list of awesome singer official portals.
 *Sir Elton Hercules John, CBE, is an English singer, pianist, and composer.*
 
 * [Elton John](https://www.eltonjohn.com/)
+
+## Eluveitie
+
+*Eluveitie is a Swiss folk metal band from Winterthur, Zurich, founded in 2002 by Chrigel Glanzmann.*
+
+* [Eluveitie](http://eluveitie.ch)
 
 ## Elvis Presley
 
