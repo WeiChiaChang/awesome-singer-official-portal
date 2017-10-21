@@ -38,6 +38,7 @@ A curated list of awesome singer official portals.
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
+    - [Demi Lovato](#demi-lovato)
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
@@ -301,6 +302,12 @@ A curated list of awesome singer official portals.
 *DAOKO is a female singer and rapper born in Tokyo.*
 
 * [DAOKO](http://daoko.jp/)
+
+## Demi Lovato
+
+*Demi Lovato is a female singer, songwriter and actress born and based in U.S.A.*
+
+* [Demi Lovato](http://www.demilovato.com/)
 
 ## DJ Okawari
 
