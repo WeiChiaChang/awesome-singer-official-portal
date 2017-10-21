@@ -26,6 +26,7 @@ A curated list of awesome singer official portals.
 - [C](#c)
     - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
+    - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
 - [D](#d)
@@ -268,6 +269,12 @@ A curated list of awesome singer official portals.
 *Capsule is a Japanese electronica band consisting of record producer Yasutaka Nakata and vocalist Toshiko Koshijima.*
 
 * [Capsule](http://capsule-official.com/)
+
+## Chthonic
+
+*Chthonic (sometimes typeset ChthoniC or ChThoniC) is a Taiwanese heavy metal band, formed in 1995 in Taipei. They have been called "the Black Sabbath of Asia.*
+
+* [Chthonic](http://www.chthonic.tw/)
 
 ## Chris Brown
 
