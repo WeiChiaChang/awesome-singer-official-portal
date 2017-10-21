@@ -32,9 +32,10 @@ A curated list of awesome singer official portals.
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
     - [DJ Okawari](#dj-okawari)
+    - [DJ Hardwell](#dj-hardwell)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
-- [E](#e)
+ - [E](#e)
     - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
     - [Egoist](#egoist)
@@ -300,6 +301,12 @@ A curated list of awesome singer official portals.
 *DJ Okawari is an independent Japanese DJ, record producer and composer born and based in Shizuoka, Japan.*
 
 * [DJ Okawari](http://www.djokawari.com/)
+
+## DJ Hardwell 
+
+*DJ Hardwell is a Dutch electro house DJ, record producer and remixer. Hardwell is best known for his sets at music festivals, including Ultra Music Festival, Sunburn and Tomorrowland.
+
+* [DJ Hardwell](https://www.djhardwell.com/)
 
 ## Dr. Dre
 
