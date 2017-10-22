@@ -85,6 +85,7 @@ A curated list of awesome singer official portals.
     - [Mai Kuraki](#mai-kuraki)
     - [Masaharu Fukuyama](#masaharu-fukuyama)
     - [Maroon 5](#maroon-5)
+    - [MGMT](#mgmt)
     - [Michael Jackson](#michael-jackson)
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
@@ -582,6 +583,12 @@ A curated list of awesome singer official portals.
 *Maroon 5 is an American pop rock band that originated in Los Angeles, California.*
 
 * [Maroon 5](https://www.maroon5.com/)
+
+## MGMT
+
+*MGMT is an American psychedelic rock band founded by Benjamin Goldwasser and Andrew VanWyngarden.*
+
+* [MGMT](http://whoismgmt.com/)
 
 ## Michael Jackson
 
