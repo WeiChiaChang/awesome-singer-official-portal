@@ -75,6 +75,7 @@ A curated list of awesome singer official portals.
     - [Kendrick Lamar](#kendrick-lamar)
     - [Kenichiro Nishihara](#kenichiro-nishihara)
     - [Kenshi Yonezu](#kenshi-yonezu)
+    - [Kings of Leon](#kings-of-leon)
 - [L](#l)
     - [LADY GAGA](#lady-gaga)
     - [Linkin Park](#linkin-park)
@@ -530,6 +531,12 @@ A curated list of awesome singer official portals.
 *Kenshi Yonezu is a Japanese musician, singer-songwriter, record producer and illustrator who began releasing Vocaloid music under the stage name Hachi in 2009.*
 
 * [Kenshi Yonezu](http://reissuerecords.net/)
+
+## Kings of Leon
+
+*Kings of Leon is an American rock band that formed in Nashville, Tennessee, in 1999. The band is composed of brothers Caleb Followill (b. January 14, 1982, lead vocals, rhythm guitar), Nathan Followill (b. June 26, 1979, drums, percussion, backing vocals) and Jared Followill (b. November 20, 1986, bass guitar, backing vocals), with their cousin Matthew Followill (b. September 10, 1984, lead guitar, backing vocals).*
+
+* [Kings of Leon](http://kingsofleon.com/)
 
 # L
 
