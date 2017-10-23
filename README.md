@@ -28,6 +28,7 @@ A curated list of awesome singer official portals.
     - [Capsule](#capsule)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
+    - [Collective Soul](#collective-soul)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
@@ -80,7 +81,6 @@ A curated list of awesome singer official portals.
     - [Linkin Park](#linkin-park)
     - [LiSA](#lisa)
     - [Lisa Ono](#lisa-ono)
-    - [Logic](#logic)
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
@@ -275,12 +275,17 @@ A curated list of awesome singer official portals.
 
 * [Chris Brown](http://heartbreakonafullmoon.chrisbrownworld.com/)
 
-
 ## Coldplay
 
 *Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London.*
 
 * [Coldplay](http://coldplay.com/)
+
+## Collective Soul
+
+*Collective Soul is an American rock band originally from Stockbridge, Georgia.*
+
+* [Collective Soul](http://www.collectivesoul.com/)
 
 # D
 
@@ -557,12 +562,6 @@ A curated list of awesome singer official portals.
 *Lisa Ono is a popular Japanese-Brazilian bossa nova singer.*
 
 * [Lisa Ono](http://onolisa.com/en/top-en)
-
-## Logic
-
-*Sir Robert Bryson Hall II, known by his stage name Logic, is an American rapper, singer, songwriter, and record producer.*
-
-* [Logic](http://www.logicmerch.com/)
 
 # M
 
