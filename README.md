@@ -17,6 +17,7 @@ A curated list of awesome singer official portals.
     - [Amazarashi](#amazarashi)
     - [Avril Lavigne](#avril-lavigne)
 - [B](#b)
+    - [Band of Horses](#band-of-horses)
     - [Beyoncé](#beyoncé)
     - [Black Eyed Peas](#black-eyed-peas)
     - [Bon Jovi](#bon-jovi)
@@ -172,7 +173,7 @@ A curated list of awesome singer official portals.
 
 * [AC/DC](http://www.acdc.com/)
 
-## Adele
+## AdeleAdele
 
 *Adele Laurie Blue Adkins MBE is an English singer-songwriter.*
 
@@ -215,6 +216,12 @@ A curated list of awesome singer official portals.
 * [Avril Lavigne](http://www.avrillavigne.com/)
 
 # B
+
+## Band of Horses
+
+*Band of Horses is an American rock band formed in 2004 in Seattle by Ben Bridwell.*
+
+* [Band of Horses](http://www.bandofhorses.com/)
 
 ## Beyoncé
 
