@@ -26,6 +26,7 @@ A curated list of awesome singer official portals.
 - [C](#c)
     - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
+    - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
 - [D](#d)
@@ -40,6 +41,7 @@ A curated list of awesome singer official portals.
     - [Ed Sheeran](#ed-sheeran)
     - [Egoist](#egoist)
     - [Elton John](#elton-john)
+    - [Eluveitie](#eluveitie)
     - [Elvis Presley](#elvis-presley)
     - [Eminem](#eminem)
 - [F](#f)
@@ -270,6 +272,12 @@ A curated list of awesome singer official portals.
 
 * [Capsule](http://capsule-official.com/)
 
+## Chthonic
+
+*Chthonic (sometimes typeset ChthoniC or ChThoniC) is a Taiwanese heavy metal band, formed in 1995 in Taipei. They have been called "the Black Sabbath of Asia.*
+
+* [Chthonic](http://www.chthonic.tw/)
+
 ## Chris Brown
 
 *Chris Brown is an American singer, songwriter, and actor.*
@@ -345,6 +353,12 @@ A curated list of awesome singer official portals.
 *Sir Elton Hercules John, CBE, is an English singer, pianist, and composer.*
 
 * [Elton John](https://www.eltonjohn.com/)
+
+## Eluveitie
+
+*Eluveitie is a Swiss folk metal band from Winterthur, Zurich, founded in 2002 by Chrigel Glanzmann.*
+
+* [Eluveitie](http://eluveitie.ch)
 
 ## Elvis Presley
 
