@@ -144,6 +144,7 @@ A curated list of awesome singer official portals.
 - [W](#w)
     - [Wagakki Band](#wagakki-band)
     - [Wednesday Campanella](#wednesday-campanella)
+    - [White Lies](#white-lies)
     - [WORLD ORDER](#world-order)
 - [X](#x)
     - [X Japan](#x-japan)
@@ -899,6 +900,12 @@ A curated list of awesome singer official portals.
 *Suiyōbi no Campanella is a Japanese music group formed in 2012 combining musical elements of the EDM, J-Pop, and Hip Hop genres. The trio consists of KOM_I, Kenmochi Hidefumi, and Dir.F.*
 
 * [Wednesday Campanella](http://www.wed-camp.com/#home)
+
+## White Lies
+
+*White Lies are an English post-punk[2] band from Ealing, London. White Lies' musical style has been described as dark yet uplifting by the media,[7] drawing comparisons to Editors, Interpol, Joy Division, and The Killers.*
+
+* [White Lies](http://whitelies.com/)
 
 ## WORLD ORDER
 
