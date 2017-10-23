@@ -34,6 +34,7 @@ A curated list of awesome singer official portals.
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
+    - [Demi Lovato](#demi)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
@@ -312,6 +313,12 @@ A curated list of awesome singer official portals.
 *Drake is a Canadian rapper, singer, songwriter, record producer, actor, and entrepreneur.*
 
 * [Drake](http://www.drakeofficial.com/)
+
+## Demi
+
+*Demetria Devonne Lovato is an American singer, songwriter, and actress. Musically, Lovato is considered a pop, pop rock, and R&B artist.*
+
+* [Demi Lovato](http://www.demilovato.com/)
 
 # E
 
