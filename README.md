@@ -80,6 +80,7 @@ A curated list of awesome singer official portals.
     - [Linkin Park](#linkin-park)
     - [LiSA](#lisa)
     - [Lisa Ono](#lisa-ono)
+    - [Logic](#logic)
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
@@ -89,6 +90,7 @@ A curated list of awesome singer official portals.
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
+    - [Muse](#muse)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
@@ -557,6 +559,12 @@ A curated list of awesome singer official portals.
 
 * [Lisa Ono](http://onolisa.com/en/top-en)
 
+## Logic
+
+*Sir Robert Bryson Hall II, known by his stage name Logic, is an American rapper, singer, songwriter, and record producer.*
+
+* [Logic](http://www.logicmerch.com/)
+
 # M
 
 ## Madonna
@@ -606,6 +614,12 @@ A curated list of awesome singer official portals.
 *Moumoon is a Japanese pop duo comprising YUKA and Kousuke Masaki.*
 
 * [Moumoon](http://www.moumoon.com/)
+
+## Muse
+
+*Muse are an English rock band from Teignmouth, Devon, formed in 1994.*
+
+* [Muse](http://muse.mu/)
 
 ## MYTH & ROID
 
