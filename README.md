@@ -55,6 +55,7 @@ A curated list of awesome singer official portals.
     - [George Michael](#george-michael)
     - [Greeeen](#greeeen)
     - [Green Day](#green-day)
+    - [GARNiDELiA](#garnidelia)
 - [H](#h)
     - [Hikaru Utada](#hikaru-utada)
     - [HKT 48](#hkt-48)
@@ -429,6 +430,11 @@ A curated list of awesome singer official portals.
 *Green Day is an American punk rock band formed in 1987. The band has consisted of lead vocalist and guitarist Billie Joe Armstrong, bassist and backing vocalist Mike Dirnt, and drummer Tré Cool for the majority of its existence.*
 
 * [Green Day](http://www.greenday.com/)
+
+## GARNiDELiA
+*GARNiDELiA (ガルニデリア) is a Japanese pop rock duo signed to Sacra Music, consisting of record producer Yoshinori Abe and vocalist Mai Mizuhashi.*
+
+* [GARNiDELiA](http://www.garnidelia.com/)
 
 # H
 
