@@ -33,6 +33,7 @@ A curated list of awesome singer official portals.
 - [C](#c)
     - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
+    - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
 - [D](#d)
@@ -41,11 +42,13 @@ A curated list of awesome singer official portals.
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
+    - [Demi Lovato](#demi)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
     - [Egoist](#egoist)
     - [Elton John](#elton-john)
+    - [Eluveitie](#eluveitie)
     - [Elvis Presley](#elvis-presley)
     - [Eminem](#eminem)
 - [F](#f)
@@ -101,6 +104,7 @@ A curated list of awesome singer official portals.
     - [Namie Amuro](#namie-amuro)
     - [Nana Mizuki](#nana-mizuki)
 - [O](#o)
+    - [OK Go](#ok-go)
     - [One Direction](#one-direction)
     - [ONE OK ROCK](#one-ok-rock)
 - [P](#p)
@@ -275,12 +279,17 @@ A curated list of awesome singer official portals.
 
 * [Capsule](http://capsule-official.com/)
 
+## Chthonic
+
+*Chthonic (sometimes typeset ChthoniC or ChThoniC) is a Taiwanese heavy metal band, formed in 1995 in Taipei. They have been called "the Black Sabbath of Asia.*
+
+* [Chthonic](http://www.chthonic.tw/)
+
 ## Chris Brown
 
 *Chris Brown is an American singer, songwriter, and actor.*
 
 * [Chris Brown](http://heartbreakonafullmoon.chrisbrownworld.com/)
-
 
 ## Coldplay
 
@@ -320,6 +329,12 @@ A curated list of awesome singer official portals.
 
 * [Drake](http://www.drakeofficial.com/)
 
+## Demi
+
+*Demetria Devonne Lovato is an American singer, songwriter, and actress. Musically, Lovato is considered a pop, pop rock, and R&B artist.*
+
+* [Demi Lovato](http://www.demilovato.com/)
+
 # E
 
 ## East River String Band
@@ -345,6 +360,12 @@ A curated list of awesome singer official portals.
 *Sir Elton Hercules John, CBE, is an English singer, pianist, and composer.*
 
 * [Elton John](https://www.eltonjohn.com/)
+
+## Eluveitie
+
+*Eluveitie is a Swiss folk metal band from Winterthur, Zurich, founded in 2002 by Chrigel Glanzmann.*
+
+* [Eluveitie](http://eluveitie.ch)
 
 ## Elvis Presley
 
@@ -635,6 +656,12 @@ A curated list of awesome singer official portals.
 * [Nana Mizuki](https://www.mizukinana.jp/)
 
 # O
+
+## OK go
+
+*OK Go is an American rock band originally from Chicago, Illinois, now based in Los Angeles, California.*
+
+* [OK go](http://okgo.net/)
 
 ## One Direction
 
