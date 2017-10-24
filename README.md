@@ -92,6 +92,7 @@ A curated list of awesome singer official portals.
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
+    - [Muse](#muse)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
@@ -627,6 +628,12 @@ A curated list of awesome singer official portals.
 *Moumoon is a Japanese pop duo comprising YUKA and Kousuke Masaki.*
 
 * [Moumoon](http://www.moumoon.com/)
+
+## Muse
+
+*Muse are an English rockband from Teighmouth, Devon, formed in 1994. The band consists of Matt Bellamy (lead vocals, guitar, piano, keyboards), Chris Wolstenholme (bass guitar, backing vocals, keyboards) and Dominic Howard (drums, percussion).*
+
+* [Muse](http://muse.mu/)
 
 ## MYTH & ROID
 
