@@ -93,7 +93,7 @@ A curated list of awesome singer official portals.
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
-	- [masego] (#masego)
+	- [masego](#masego)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
