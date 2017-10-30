@@ -35,6 +35,7 @@ A curated list of awesome singer official portals.
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
+    - [Dream Theater](#dream)
     - [Demi Lovato](#demi)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
@@ -92,6 +93,7 @@ A curated list of awesome singer official portals.
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
+	- [masego](#masego)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
@@ -321,6 +323,12 @@ A curated list of awesome singer official portals.
 *Drake is a Canadian rapper, singer, songwriter, record producer, actor, and entrepreneur.*
 
 * [Drake](http://www.drakeofficial.com/)
+
+## dream
+
+*Dream Theater is an American progressive metal band formed in 1985 under the name Majesty by John Petrucci, John Myung and Mike Portnoy while they attended Berklee College of Music in Boston, Massachusetts.*
+
+*[Dream Theater](http://dreamtheater.net/)
 
 ## Demi
 
@@ -603,6 +611,13 @@ A curated list of awesome singer official portals.
 *Maroon 5 is an American pop rock band that originated in Los Angeles, California.*
 
 * [Maroon 5](https://www.maroon5.com/)
+
+## masego
+
+*Is It Rap? Is It Jazz? No, It's TrapHouseJazz, Masego Style. *
+
+* [masego](https://soundcloud.com/masegomusic)
+
 
 ## Michael Jackson
 
