@@ -93,6 +93,7 @@ A curated list of awesome singer official portals.
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
+	- [masego] (#masego)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
@@ -610,6 +611,13 @@ A curated list of awesome singer official portals.
 *Maroon 5 is an American pop rock band that originated in Los Angeles, California.*
 
 * [Maroon 5](https://www.maroon5.com/)
+
+## masego
+
+*Is It Rap? Is It Jazz? No, It's TrapHouseJazz, Masego Style. *
+
+* [masego](https://soundcloud.com/masegomusic)
+
 
 ## Michael Jackson
 
