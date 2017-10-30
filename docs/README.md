@@ -95,6 +95,7 @@ A curated list of awesome singer official portals.
     - [Mai Kuraki](#mai-kuraki)
     - [Masaharu Fukuyama](#masaharu-fukuyama)
     - [Maroon 5](#maroon-5)
+    - [Michael Bublé](#michael-bublé)
     - [Michael Jackson](#michael-jackson)
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
@@ -610,6 +611,12 @@ A curated list of awesome singer official portals.
 *Maroon 5 is an American pop rock band that originated in Los Angeles, California.*
 
 * [Maroon 5](https://www.maroon5.com/)
+
+## Michael Bublé
+
+*Michael Bublé is a Canadian singer, songwriter, comedian, actor and record producer.*
+
+* [Michael Bublé](http://www.michaelbuble.com/)
 
 ## Michael Jackson
 
