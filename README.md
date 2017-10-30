@@ -36,6 +36,7 @@ A curated list of awesome singer official portals.
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
     - [Demi Lovato](#demi)
+    - [Dream Theater](#dream-theater)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
@@ -327,6 +328,12 @@ A curated list of awesome singer official portals.
 *Demetria Devonne Lovato is an American singer, songwriter, and actress. Musically, Lovato is considered a pop, pop rock, and R&B artist.*
 
 * [Demi Lovato](http://www.demilovato.com/)
+
+## Dream Theater 
+
+*Dream Theater is an American progressive metal band formed in 1985. Members include: John Petrucci, Jordan Rudess, James LaBrie, John Myung and Mike Mangini.
+
+* [Dream Theater](http://dreamtheater.net/)
 
 # E
 
