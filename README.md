@@ -35,7 +35,7 @@ A curated list of awesome singer official portals.
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
-    - [Dream Theater](#dream Theater)
+    - [Dream Theater](#dream)
     - [Demi Lovato](#demi)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
@@ -323,7 +323,7 @@ A curated list of awesome singer official portals.
 
 * [Drake](http://www.drakeofficial.com/)
 
-## Dream Theater
+## dream
 
 *Dream Theater is an American progressive metal band formed in 1985 under the name Majesty by John Petrucci, John Myung and Mike Portnoy while they attended Berklee College of Music in Boston, Massachusetts.*
 
