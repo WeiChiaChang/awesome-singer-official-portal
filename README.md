@@ -78,6 +78,7 @@ A curated list of awesome singer official portals.
     - [Kendrick Lamar](#kendrick-lamar)
     - [Kenichiro Nishihara](#kenichiro-nishihara)
     - [Kenshi Yonezu](#kenshi-yonezu)
+    - [Kodiak Arrest](#kodiak-arrest)
 - [L](#l)
     - [LADY GAGA](#lady-gaga)
     - [Linkin Park](#linkin-park)
@@ -551,6 +552,12 @@ A curated list of awesome singer official portals.
 *Kenshi Yonezu is a Japanese musician, singer-songwriter, record producer and illustrator who began releasing Vocaloid music under the stage name Hachi in 2009.*
 
 * [Kenshi Yonezu](http://reissuerecords.net/)
+
+## Kodiak Arrest
+
+*Kodiak Arrest is an American indie rock band that is heralded for their diverse vocals, catchy melodies, and memorable riffs.*
+
+* [Kodiak Arrest](https://kodiakarrest.bandcamp.com/album/the-yellow-room)
 
 # L
 
