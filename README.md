@@ -131,6 +131,7 @@ A curated list of awesome singer official portals.
     - [Takashi Murkami](#takashi-murkami)
     - [Taylor Swift](#taylor-swift)
     - [The Beatles](#the-beatles)
+    * [The Chainsmokers](http://www.thechainsmokers.com/)
     - [The Rolling Stones](#the-rolling-stones)
     - [toe](#toe)
     - [Toki Asako](#toki-asako)
@@ -833,6 +834,12 @@ A curated list of awesome singer official portals.
 *The Beatles were an English rock band formed in Liverpool in 1960.*
 
 * [The Beatles](https://www.thebeatles.com/)
+
+## The Chainsmokers
+
+*The Chainsmokers is an American DJ/production duo consisting of Andrew Taggart and Alex Pall.*
+
+* [The Chainsmokers](http://www.thechainsmokers.com/)
 
 ## The Rolling Stones
 
