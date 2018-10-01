@@ -61,6 +61,7 @@ A curated list of awesome singer official portals.
 - [I](#i)
     - [Ikimono Gakari](#ikimono-gakari)
     - [Imagine Dragons](#imagine-dragons)
+    - [Indian Ocean](#indian-ocean)
     - [IU](#iu)
 - [J](#j)
     - [Jason Mraz](#jason-mraz)
@@ -457,6 +458,12 @@ A curated list of awesome singer official portals.
 *Imagine Dragons is an American rock band from Las Vegas, Nevada, consisting of lead vocalist Dan Reynolds, lead guitarist Wayne Sermon, bassist and keyboardist Ben McKee, and drummer Daniel Platzman.*
 
 * [Imagine Dragons](https://www.imaginedragonsmusic.com/)
+
+## Indian Ocean
+
+*Indian Ocean is an Indian rock band formed in New Delhi in 1990, who are widely recognized as the pioneers of the fusion rock genre in India. The musical style of the band can be at best classified as folk and fusion music. It is an experimental genre, fusing raga (traditional Indian tunes) with rock music, guitars and drums, sometimes using Indian folk songs.*
+
+* [Indian Ocean](http://www.indianoceanmusic.com/)
 
 ## IU
 
