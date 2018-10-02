@@ -83,6 +83,8 @@ A curated list of awesome singer official portals.
     - [Linkin Park](#linkin-park)
     - [LiSA](#lisa)
     - [Lisa Ono](#lisa-ono)
+    - [Lupe Fiasco](#lupe-fiasco)
+
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
@@ -577,6 +579,12 @@ A curated list of awesome singer official portals.
 *Lisa Ono is a popular Japanese-Brazilian bossa nova singer.*
 
 * [Lisa Ono](http://onolisa.com/en/top-en)
+
+## Lupe Fiasco
+
+*Wasalu Muhammad Jaco, better known by his stage name Lupe Fiasco, is an American rapper, record producer, and entrepreneur.*
+
+* [Lupe FIasco](http://lupefiasco.com/)
 
 # M
 
