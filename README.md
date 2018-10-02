@@ -582,9 +582,9 @@ A curated list of awesome singer official portals.
 
 ## Lupe Fiasco
 
-*Wasalu Muhammad Jaco, better known by his stage name Lupe Fiasco, is an American rapper, record producer, and entrepreneur.*
+*Wasalu Muhammad Jaco, better known by his stage name Lupe Fiasco, is an American rapper, record producer, and entrepreneur known for his conscious lyrical prowess*
 
-* [Lupe FIasco](http://lupefiasco.com/)
+* [Lupe Fiasco](http://lupefiasco.com/)
 
 # M
 
