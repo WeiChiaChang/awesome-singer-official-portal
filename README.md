@@ -487,7 +487,7 @@ A curated list of awesome singer official portals.
 
 ## Jimi Hendrix
 
-*James Marshall Hendrix, known professionally as Jimi Hendrix, was an electric blues guitarist, singer, and songwriter.
+*James Marshall Hendrix, known professionally as Jimi Hendrix, was an electric blues guitarist, singer, and songwriter.*
 
 * [Jimi Hendrix](https://www.jimihendrix.com/)
 
