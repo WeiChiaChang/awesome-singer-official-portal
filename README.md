@@ -66,6 +66,7 @@ A curated list of awesome singer official portals.
     - [Jason Mraz](#jason-mraz)
     - [Jay-Z](#jay-z)
     - [Jessie J](#jessie-j)
+    - [Jimi Hendrix](#jimi-hendrix)
     - [John Mayer](#john-mayer)
     - [Justin Bieber](#justin-bieber)
     - [Justin Timberlake](#justin-timberlake)
@@ -483,6 +484,12 @@ A curated list of awesome singer official portals.
 *Jessica Ellen Cornish, known professionally as Jessie J, is an English singer and songwriter.*
 
 * [Jessie J](http://www.jessiejofficial.com/)
+
+## Jimi Hendrix
+
+*James Marshall Hendrix, known professionally as Jimi Hendrix, was an electric blues guitarist, singer, and songwriter.
+
+* [Jimi Hendrix](https://www.jimihendrix.com/)
 
 ## John Mayer
 
