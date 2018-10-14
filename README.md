@@ -29,6 +29,7 @@ A curated list of awesome singer official portals.
     - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
+    - [Chris Stapleton](#chris-stapleton)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
@@ -290,6 +291,12 @@ A curated list of awesome singer official portals.
 *Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London.*
 
 * [Coldplay](http://coldplay.com/)
+
+## Chris Stapleton
+
+*Chris Stapleton is an American songwriter, guitarist and record producer*
+
+* [Chris Stapleton](https://chrisstapleton.com/)
 
 # D
 
