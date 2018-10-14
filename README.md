@@ -29,6 +29,7 @@ A curated list of awesome singer official portals.
     - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
+    - [Chris Stapleton](#chris-stapleton)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
@@ -69,6 +70,7 @@ A curated list of awesome singer official portals.
     - [John Mayer](#john-mayer)
     - [Justin Bieber](#justin-bieber)
     - [Justin Timberlake](#justin-timberlake)
+    - [John Legend](#john-legend)
 - [K](#k)
     - [Kalafina](#kalafina)
     - [Katy Perry](#katy-perry)
@@ -290,6 +292,12 @@ A curated list of awesome singer official portals.
 
 * [Coldplay](http://coldplay.com/)
 
+## Chris Stapleton
+
+*Chris Stapleton is an American songwriter, guitarist and record producer*
+
+* [Chris Stapleton](https://chrisstapleton.com/)
+
 # D
 
 ## Daft Punk
@@ -501,6 +509,12 @@ A curated list of awesome singer official portals.
 *Justin Randall Timberlake is an American singer-songwriter, actor and record producer.*
 
 * [Justin Timberlake](https://justintimberlake.com/)
+
+## John Legend
+
+*John legend is an American singer, songwriter and actor.*
+
+* [John Legend](https://www.johnlegend.com/)
 
 # K
 
