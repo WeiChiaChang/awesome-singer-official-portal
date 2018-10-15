@@ -32,6 +32,7 @@ A curated list of awesome singer official portals.
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
+    - [Die Antwoord](#die-antwoord)
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
@@ -83,6 +84,7 @@ A curated list of awesome singer official portals.
     - [Linkin Park](#linkin-park)
     - [LiSA](#lisa)
     - [Lisa Ono](#lisa-ono)
+    - [Little Big](#little-big)
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
@@ -303,6 +305,12 @@ A curated list of awesome singer official portals.
 *DAOKO is a female singer and rapper born in Tokyo.*
 
 * [DAOKO](http://daoko.jp/)
+
+## Die Antwoord
+
+*Die Antwoord (pronounced [di ˈantvʊərt], Afrikaans for "The Answer") is a South African hip hop group formed in Cape Town in 2008*
+
+* [Die Antwoord](https://www.dieantwoord.com/home/)
 
 ## DJ Okawari
 
@@ -577,6 +585,12 @@ A curated list of awesome singer official portals.
 *Lisa Ono is a popular Japanese-Brazilian bossa nova singer.*
 
 * [Lisa Ono](http://onolisa.com/en/top-en)
+
+## Little Big
+
+*Little Big is a Russian rave band, founded in 2013 in St. Petersburg.*
+
+* [Little Big](http://littlebig.band/)
 
 # M
 
