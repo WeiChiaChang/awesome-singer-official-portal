@@ -135,6 +135,7 @@ A curated list of awesome singer official portals.
     - [toe](#toe)
     - [Toki Asako](#toki-asako)
     - [TOKiMONSTA](#tokimonsta)
+    - [The Doors] (#the-doors)
 - [U](#u)
     - [U2](#u2)
     - [Usher](#usher)
