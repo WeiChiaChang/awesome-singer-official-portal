@@ -93,6 +93,7 @@ A curated list of awesome singer official portals.
     - [Mika Nakashima](#mika-nakashima)
     - [moumoon](#moumoon)
     - [MYTH & ROID](#myth-&-roid)
+    - [Mayday](#mayday)
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
     - [Nana Mizuki](#nana-mizuki)
@@ -633,6 +634,12 @@ A curated list of awesome singer official portals.
 *Myth & Roid is a Japanese musical unit signed to Media Factory.*
 
 * [MYTH & ROID](http://www.mythd-club.com/)
+
+## Mayday
+
+*Mayday is a Taiwan musical orchestra.*
+
+* [Mayday](http://www.bin-music.com/)
 
 # N
 
