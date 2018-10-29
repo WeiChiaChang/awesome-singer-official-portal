@@ -28,6 +28,7 @@ A curated list of awesome singer official portals.
     - [Capsule](#capsule)
     - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
+    - [Colbie Caillat](#colbie-caillat)
     - [Coldplay](#coldplay)
 - [D](#d)
     - [Daft Punk](#daft-punk)
@@ -283,6 +284,12 @@ A curated list of awesome singer official portals.
 *Chris Brown is an American singer, songwriter, and actor.*
 
 * [Chris Brown](http://heartbreakonafullmoon.chrisbrownworld.com/)
+
+## Colbie Caillat
+
+*Colbie Marie Caillat is an American singer and songwriter from Malibu, California.*
+
+* [Colbie Caillat](http://www.colbiecaillat.com)
 
 ## Coldplay
 
