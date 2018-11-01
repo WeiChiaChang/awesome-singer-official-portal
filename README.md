@@ -127,6 +127,7 @@ A curated list of awesome singer official portals.
     - [Snoop Dogg](#snoop-dogg)
     - [Sōtaisei Riron](#sōtaisei-riron)
     - [Spangle call Lilli line](#spangle-call-lilli-line)
+    - [Survive Said The Prophet](#survive-said-the-prophet)
     - [SPYAIR](#spyair)
 - [T](#t)
     - [Takashi Murkami](#takashi-murkami)
@@ -814,6 +815,12 @@ A curated list of awesome singer official portals.
 *Spangle call Lilli line is a three-member Japanese band, formed in 1998 in Shimokitazawa.*
 
 * [Spangle call Lilli line](http://www.lilliline.com/)
+
+## Survive Said The Prophet
+
+*Survive Said the Prophet is a Jrock band that formed in Tokyo in 2011 and is currently under JMST.*
+
+* [Survive Said The Prophet](http://survivesaidtheprophet.com/merch/)
 
 ## SPYAIR
 
