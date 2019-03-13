@@ -33,6 +33,7 @@ A curated list of awesome singer official portals.
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
     - [DJ Okawari](#dj-okawari)
+    - [Do As Infinity](#do-as-infinity)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
     - [Demi Lovato](#demi)
@@ -310,6 +311,12 @@ A curated list of awesome singer official portals.
 *DJ Okawari is an independent Japanese DJ, record producer and composer born and based in Shizuoka, Japan.*
 
 * [DJ Okawari](http://www.djokawari.com/)
+
+## Do As Infinity
+
+*Do As Infinity is a Japanese pop and rock band that formed in 1999 with three members: vocalist Tomiko Van, guitarist Ryo Owatari, and guitarist and composer Dai Nagao.*
+
+* [Do As Infinity](https://www.d-a-i.com/)
 
 ## Dr. Dre
 
