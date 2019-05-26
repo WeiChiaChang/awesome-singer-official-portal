@@ -11,6 +11,7 @@ A curated list of awesome singer official portals.
     - [AC/DC](#ac/dc)
     - [Adele](#adele)
     - [Adam Levine](#adam-levine)
+    - [AFI](#AFI)
     - [Aimer](#aimer)
     - [Ai Otsuka](#ai-otsuka)
     - [Alan Walker](#alan-walker)
@@ -184,6 +185,12 @@ A curated list of awesome singer official portals.
 *Adam Levineis an American singer, songwriter, multi-instrumentalist, actor, and record producer. He is the lead singer for the pop rock band Maroon 5.*
 
 * [Adam Levine](https://www.instagram.com/adamlevine/?hl=zh-tw)
+
+## AFI
+
+*AFI are an American rock band. AFI is short for A Fire Inside*
+
+* [AFI](http://afireinside.net/)
 
 ## Aimer
 
