@@ -13,13 +13,16 @@ A curated list of awesome singer official portals.
     - [Adam Levine](#adam-levine)
     - [Aimer](#aimer)
     - [Ai Otsuka](#ai-otsuka)
+    - [AKB48](#akb48)
     - [Alan Walker](#alan-walker)
     - [Amazarashi](#amazarashi)
     - [Avril Lavigne](#avril-lavigne)
 - [B](#b)
     - [Beyoncé](#beyoncé)
     - [Black Eyed Peas](#black-eyed-peas)
+    - [Bodyslam](#bodyslam)
     - [Bon Jovi](#bon-jovi)
+    - [BNK48](#bnk48)
     - [Bruno Mars](#bruno-mars)
     - [Bump Of Chicken](#bump-of-chicken)
     - [B'z](#b-z)
@@ -197,6 +200,12 @@ A curated list of awesome singer official portals.
 
 * [Ai Otsuka](http://avex.jp/ai/)
 
+## AKB48
+
+*AKB48 are a Japanese idol girl group named after the Akihabara (Akiba for short) area in Tokyo, where the group's theater is located.*
+
+* [AKB48](https://www.akb48.co.jp/)
+
 ## Alan Walker
 
 *Alan Olav Walker, formerly known as DJ Walkzz, is a Norwegian record producer and DJ.*
@@ -229,11 +238,23 @@ A curated list of awesome singer official portals.
 
 * [Black Eyed Peas](http://www.blackeyedpeas.com/Black-Eyed-Peas)
 
+## BNK48
+
+*BNK48 (read B.N.K. Forty-eight) is a Thai idol group and the third international sister group of AKB48, after Indonesia's JKT48 and China's SNH48*
+
+* [BNK48](https://www.bnk48.com/)
+
 ## Bob Dylan
 
 *Robert Allen Zimmerman, known professionally as Bob Dylan, is an American singer, songwriter, musician, painter, and writer.*
 
 * [Bob Dylan](https://www.bobdylan.com/)
+
+## Bodyslam
+
+*Bodyslam is a Thai rock band. The band is best known by the unique voice of the leading vocalist, Athiwara Khongmalai, and the band's live performances*
+
+* [Bodyslam](http://www.bodyslamband.com/)
 
 ## Bon Jovi
 
