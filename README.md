@@ -29,6 +29,7 @@ A curated list of awesome singer official portals.
     - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
+    - [camila cabello](#camila-cabello)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
@@ -290,6 +291,12 @@ A curated list of awesome singer official portals.
 *Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London.*
 
 * [Coldplay](http://coldplay.com/)
+
+##camila cabello
+
+*camila cabello is a Cuban-American singer, songwriter and actress. She rose to prominence as a member of the girl group Fifth Harmony, formed on The X Factor (U.S.) in 2012, signing a joint record deal with Syco Music and Epic Records.*
+
+*[Camila cabello](https://www.camilacabello.com/)
 
 # D
 
