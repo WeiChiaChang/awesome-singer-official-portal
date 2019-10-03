@@ -106,6 +106,7 @@ A curated list of awesome singer official portals.
     - [Phil Collins](#phil-collins)
     - [P!nk](#p!nk)
     - [Pitbull](#pitbull)
+    - [Post Malone](#post-malone)
     - [Prince](#prince)
 - [Q](#q)
     - [Queen](#queen)
@@ -700,6 +701,12 @@ A curated list of awesome singer official portals.
 *Pitbull*
 
 * [Pitbull](http://climatechange.pitbullmusic.com/)
+
+## Post Malone
+
+*Austin Richard Post (born July 4, 1995), known professionally as Post Malone, is an American rapper, singer, songwriter, and record producer.*
+
+[Post Malone](http://postmalone.com)
 
 ## Prince
 
