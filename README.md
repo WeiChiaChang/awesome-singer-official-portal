@@ -17,6 +17,7 @@ A curated list of awesome singer official portals.
     - [Amazarashi](#amazarashi)
     - [Avril Lavigne](#avril-lavigne)
 - [B](#b)
+    - [Backstreet Boys](#back-street-boys)
     - [Beyoncé](#beyoncé)
     - [Black Eyed Peas](#black-eyed-peas)
     - [Bon Jovi](#bon-jovi)
@@ -216,6 +217,11 @@ A curated list of awesome singer official portals.
 * [Avril Lavigne](http://www.avrillavigne.com/)
 
 # B
+## Backstreet Boys
+
+*Backstreet Boys are an American vocal group, formed in Orlando, Florida in 1993. The group consists of AJ McLean, Howie Dorough, Nick Carter, Kevin Richardson, and Brian Littrell.*
+
+* [Backstreet Boys](https://www.backstreetboys.com/)
 
 ## Beyoncé
 
