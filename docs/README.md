@@ -31,6 +31,7 @@ A curated list of awesome singer official portals.
     - [Bump Of Chicken](#bump-of-chicken)
     - [B'z](#b-z)
 - [C](#c)
+    - [Cai Xukun](#cai-xukun)
     - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
     - [Chthonic](#chthonic)
@@ -267,6 +268,12 @@ A curated list of awesome singer official portals.
 * [B'z](http://bz-vermillion.com/discography/)
 
 # C
+
+## Cai Xukun
+
+*Cai Xukun is a smile boy who likes singing, dancing, rapping and bascketball.*
+
+* [Cai Xukun](https://www.kunworldtour.com/)
 
 ## Calvin Harris
 
