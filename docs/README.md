@@ -159,6 +159,7 @@ A curated list of awesome singer official portals.
 - [Y](#y)
     - [Yanaginagi](#yanaginagi)
     - [Yasutaka Nakata](#yasutaka-nakata)
+    - [Yonezu Kenshi](#yonezu-kenshi)
     - [YUI](#yui)
     - [Yui Aragaki](#yui-aragaki)
 - [Z](#z)
@@ -948,6 +949,12 @@ A curated list of awesome singer official portals.
 *Yanaginagi is a Japanese singer, songwriter and lyricist from Osaka, Japan and is signed to Geneon. Initially, she sang and produced music independently beginning in 2005. Between 2009 and 2011, Yanagi was the guest vocalist of the J-pop band Supercell.*
 
 * [Yanaginagi](http://yanaginagi.net/)
+
+## Yonezu Kenshi
+
+*Yonezu Kenshi is a Japanese musician, singer-songwriter, record producer and illustrator who began releasing Vocaloid music under the stage name Hachi in 2009.*
+
+* [Yonezu Kenshi](https://reissuerecords.net/)
 
 ## Kayne West
 
