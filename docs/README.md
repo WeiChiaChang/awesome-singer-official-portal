@@ -31,6 +31,7 @@ A curated list of awesome singer official portals.
     - [Bump Of Chicken](#bump-of-chicken)
     - [B'z](#b-z)
 - [C](#c)
+    - [Cai Xukun](#cai-xukun)
     - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
     - [Chthonic](#chthonic)
@@ -71,6 +72,7 @@ A curated list of awesome singer official portals.
     - [IU](#iu)
 - [J](#j)
     - [Jason Mraz](#jason-mraz)
+    - [Jay Chou](#jay-chou)
     - [Jay-Z](#jay-z)
     - [Jessie J](#jessie-j)
     - [John Mayer](#john-mayer)
@@ -157,6 +159,7 @@ A curated list of awesome singer official portals.
 - [Y](#y)
     - [Yanaginagi](#yanaginagi)
     - [Yasutaka Nakata](#yasutaka-nakata)
+    - [Yonezu Kenshi](#yonezu-kenshi)
     - [YUI](#yui)
     - [Yui Aragaki](#yui-aragaki)
 - [Z](#z)
@@ -266,6 +269,12 @@ A curated list of awesome singer official portals.
 * [B'z](http://bz-vermillion.com/discography/)
 
 # C
+
+## Cai Xukun
+
+*Cai Xukun is a smile boy who likes singing, dancing, rapping and bascketball.*
+
+* [Cai Xukun](https://www.kunworldtour.com/)
 
 ## Calvin Harris
 
@@ -478,6 +487,12 @@ A curated list of awesome singer official portals.
 *Jason Thomas Mraz is an American singer-songwriter.*
 
 * [Jason Mraz](http://jasonmraz.com/)
+
+## Jay Chou
+
+*Jay Chou is a musician, singer, songwriter, record producer, film producer, actor, and director.*
+
+* [Jay Chou](https://www.instagram.com/jaychou/)
 
 ## Jay-Z
 
@@ -934,6 +949,12 @@ A curated list of awesome singer official portals.
 *Yanaginagi is a Japanese singer, songwriter and lyricist from Osaka, Japan and is signed to Geneon. Initially, she sang and produced music independently beginning in 2005. Between 2009 and 2011, Yanagi was the guest vocalist of the J-pop band Supercell.*
 
 * [Yanaginagi](http://yanaginagi.net/)
+
+## Yonezu Kenshi
+
+*Yonezu Kenshi is a Japanese musician, singer-songwriter, record producer and illustrator who began releasing Vocaloid music under the stage name Hachi in 2009.*
+
+* [Yonezu Kenshi](https://reissuerecords.net/)
 
 ## Kayne West
 
