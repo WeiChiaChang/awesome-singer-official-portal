@@ -71,6 +71,7 @@ A curated list of awesome singer official portals.
     - [IU](#iu)
 - [J](#j)
     - [Jason Mraz](#jason-mraz)
+    - [Jay Chou](#jay-chou)
     - [Jay-Z](#jay-z)
     - [Jessie J](#jessie-j)
     - [John Mayer](#john-mayer)
@@ -478,6 +479,12 @@ A curated list of awesome singer official portals.
 *Jason Thomas Mraz is an American singer-songwriter.*
 
 * [Jason Mraz](http://jasonmraz.com/)
+
+## Jay Chou
+
+*Jay Chou is a musician, singer, songwriter, record producer, film producer, actor, and director.*
+
+* [Jay Chou](https://www.instagram.com/jaychou/)
 
 ## Jay-Z
 
