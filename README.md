@@ -16,6 +16,7 @@ A curated list of awesome singer official portals.
     - [Alan Walker](#alan-walker)
     - [Amazarashi](#amazarashi)
     - [Avril Lavigne](#avril-lavigne)
+    - [Anggun Cipta Sasmi](#Anggun-Cipta-Sasmi)
 - [B](#b)
     - [Beyoncé](#beyoncé)
     - [Black Eyed Peas](#black-eyed-peas)
@@ -214,6 +215,12 @@ A curated list of awesome singer official portals.
 *Avril Ramona Lavigne is a Canadian singer-songwriter and actress.*
 
 * [Avril Lavigne](http://www.avrillavigne.com/)
+
+## Anggun Cipta Sasmi
+
+*Anggun Cipta Sasmi is an  Indonesian-born French singer, songwriter, recording artist, record producer, and international diva.*
+
+* [Anggun Cipta Sasmi](http://www.anggunworld.com/)
 
 # B
 
