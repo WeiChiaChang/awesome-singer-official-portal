@@ -120,6 +120,7 @@ A curated list of awesome singer official portals.
     - [Sawano Hiroyuki](#sawano-hiroyuki)
     - [Sayuri](#sayuri)
     - [Scandal](#scandal)
+    - [Sheila On 7](#sheila-on-7)
     - [Sia](#sia)
     - [Sid](#sid)
     - [Sigur Rós](#sigur-rós)
@@ -772,6 +773,12 @@ A curated list of awesome singer official portals.
 *Scandal is an all-female Japanese rock band from Osaka.*
 
 * [Scandal](http://www.scandal-4.com/)
+
+## Sheila On 7
+
+*Sheila on 7 is a pop local band from Jogjakarta, Indonesia.*
+
+* [Sheila On 7](http://sheilaon7.com)
 
 ## Sia
 
