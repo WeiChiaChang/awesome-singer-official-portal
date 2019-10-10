@@ -128,6 +128,7 @@ A curated list of awesome singer official portals.
     - [Sōtaisei Riron](#sōtaisei-riron)
     - [Spangle call Lilli line](#spangle-call-lilli-line)
     - [SPYAIR](#spyair)
+    - [Stars and Rabbit]($starsandrabbit)
 - [T](#t)
     - [Takashi Murkami](#takashi-murkami)
     - [Taylor Swift](#taylor-swift)
@@ -820,6 +821,11 @@ A curated list of awesome singer official portals.
 *Spyair is a Japanese rock band from Nagoya, Japan, formed in 2005.*
 
 * [SPYAIR](http://www.spyair.net/)
+
+## Stars and Rabbit
+*Stars and Rabbit is a singer-guitarist duo whose household name has been whispered intensely these past months, signaling how the crowd loves them." VOCIFEROUS - Indonesia. "It's a pleasant surprise to hear something truly world class out of Indonesia."*
+
+* [Stars and Rabbit](http://starsandrabbit.com/)
 
 # T
 
