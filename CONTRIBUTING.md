@@ -12,3 +12,5 @@ Your contributions are always welcome!
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
 - Send a Pull Request with the name of singer or band.
+
+[Vaibhav](https://github.com/iam2002)
