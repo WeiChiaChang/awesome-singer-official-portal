@@ -46,7 +46,8 @@ A curated list of awesome singer official portals.
     - [Eminem](#eminem)
 - [F](#f)
     - [Fall Out Boy](#fall-out-boy)
-    - [Flo Rida](#flo-rida)
+    - [Florence and the Machine](#florence-and-the-machine)
+	- [Flo Rida](#flo-rida)
     - [Flumpool](#flumpool)
     - [Foo Fighters](#foo-fighters)
     - [f(x)](#f(x))
@@ -380,6 +381,12 @@ A curated list of awesome singer official portals.
 *Fall Out Boy is an American rock band formed in Wilmette, Illinois, a suburb of Chicago, in 2001.*
 
 * [Fall Out Boy](https://falloutboy.com/)
+
+## Florence and the Machine
+
+*Florence and the Machine are an English indie rock band that formed in London in 2007, consisting of lead singer Florence Welch, keyboardist Isabella Summers, and a collaboration of other artists*
+
+* [Florence and the Machine](http://florenceandthemachine.net/#home)
 
 ## Flo Rida
 
