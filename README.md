@@ -107,6 +107,7 @@ A curated list of awesome singer official portals.
     - [P!nk](#p!nk)
     - [Pitbull](#pitbull)
     - [Prince](#prince)
+    - [Pink-Floyd](#pink-floyd)
 - [Q](#q)
     - [Queen](#queen)
 - [R](#r)
