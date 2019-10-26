@@ -115,6 +115,7 @@ A curated list of awesome singer official portals.
     - [Rich Chigga](#rich-chigga)
     - [Ricky Martin](#ricky-martin)
     - [Rihanna](#rihanna)
+    - [Royal Blood](#royal-blood)
 - [S](#s)
     - [Sakanaction](#sakanaction)
     - [Sawano Hiroyuki](#sawano-hiroyuki)
@@ -746,6 +747,12 @@ A curated list of awesome singer official portals.
 *Robyn Rihanna Fenty, known by the mononym Rihanna, is a Barbadian singer, songwriter, and actress.*
 
 * [Rihanna](http://www.rihannanow.com/)
+
+## Royal Blood
+
+*Royal Blood are an English rock duo formed in Brighton in 2011.*
+
+* [Royal Blood](http://www.royalbloodband.com/)
 
 # S
 
