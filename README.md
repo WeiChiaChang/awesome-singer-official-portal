@@ -91,6 +91,7 @@ A curated list of awesome singer official portals.
     - [Michael Jackson](#michael-jackson)
     - [mihimaru GT](#mihimaru-gt)
     - [Mika Nakashima](#mika-nakashima)
+    - [Mili](#mili)
     - [moumoon](#moumoon)
     - [MYTH & ROID](#myth-&-roid)
 - [N](#n)
@@ -622,6 +623,12 @@ A curated list of awesome singer official portals.
 *Mika Nakashima is a Japanese singer and actress.*
 
 * [Mika Nakashima](http://www.mikanakashima.com/)
+
+## Mili
+
+*Mili is a classical Japanese indie music group. Mili covers electronic classical, contemporary classical, and post-classical genre to their music and is not limited to songs in Japanese, but also in English, Chinese, Gujarati and French.*
+
+* [Mili](http://projectmili.com)
 
 ## Moumoon
 
