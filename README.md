@@ -489,6 +489,12 @@ A curated list of awesome singer official portals.
 
 *John Clayton Mayer is an American singer-songwriter, guitarist, and producer.*
 
+* [Jimi Hendrix](https://jimihendrix.com/)
+
+## Jimi Hendrix
+
+*The Rock and Roll Hall of Fame describes him as "arguably the greatest instrumentalist in the history of rock music".*
+
 * [John Mayer](http://johnmayer.com/)
 
 ## Justin Bieber
