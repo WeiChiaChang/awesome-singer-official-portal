@@ -626,7 +626,7 @@ A curated list of awesome singer official portals.
 
 ## Mili
 
-*Mili is a classical Japanese indie music group. Mili covers electronic classical, contemporary classical, and post-classical genre to their music[2] and is not limited to songs in Japanese, but also in English, Chinese, Gujarati and French.*
+*Mili is a classical Japanese indie music group. Mili covers electronic classical, contemporary classical, and post-classical genre to their music and is not limited to songs in Japanese, but also in English, Chinese, Gujarati and French.*
 
 * [Mili](http://projectmili.com)
 
