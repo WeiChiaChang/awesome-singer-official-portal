@@ -1,5 +1,5 @@
 <a style="text-decoration: none;" target="_blank" href="https://github.com/WeiChiaChang/awesome-singer-official-portal">
-    <img src="https://img.shields.io/github/stars/WeiChiaChang/awesome-singer-official-portal.svg?style=social&label=Star" alt="github stars"> 
+    <img src="https://img.shields.io/github/stars/WeiChiaChang/awesome-singer-official-portal.svg?style=social&label=Star" alt="github stars">
 </a>
 <a style="text-decoration: none;" target="_blank" href="https://github.com/WeiChiaChang" title="Follow @WeiChiaChang on GitHub">
     <img src="https://img.shields.io/github/followers/WeiChiaChang.svg?style=social&label=Follow" alt="GitHub followers">
@@ -93,6 +93,7 @@ A curated list of awesome singer official portals.
 - [M](#m)
     - [Madonna](#madonna)
     - [Mai Kuraki](#mai-kuraki)
+    - [Maluma](#maluma)    
     - [Masaharu Fukuyama](#masaharu-fukuyama)
     - [Maroon 5](#maroon-5)
     - [Michael Jackson](#michael-jackson)
@@ -598,6 +599,12 @@ A curated list of awesome singer official portals.
 *Mai Kuraki, born October 28, 1982 as Mai Aono, is a Japanese pop and R&B singer-songwriter and producer from Funabashi, Chiba. Kuraki debuted in 1999 with the single, "Love, Day After Tomorrow".*
 
 * [Mai Kuraki](http://www.mai-kuraki.com/)
+
+## Maluma
+
+*Juan Luis Londoño Arias, known professionally as Maluma, is a Colombian singer and songwriter, signed to Sony Music Colombia, Sony Latin and Fox Music.*
+
+* [Maluma](https://maluma.online)
 
 ## Masaharu Fukuyama
 
