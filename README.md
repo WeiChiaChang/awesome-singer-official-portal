@@ -107,6 +107,7 @@ A curated list of awesome singer official portals.
     - [P!nk](#p!nk)
     - [Pitbull](#pitbull)
     - [Prince](#prince)
+    - [pinkfloyd](#pinkfloyd)
 - [Q](#q)
     - [Queen](#queen)
 - [R](#r)
@@ -706,6 +707,12 @@ A curated list of awesome singer official portals.
 *Prince Rogers Nelson was an American singer, songwriter, multi-instrumentalist, and record producer.*
 
 * [Prince](https://www.officialprincemusic.com/)
+
+## Pinkfloyd
+
+*Pink Floyd is a rock band. Founded in London, England
+
+* [Pinkfloyd](http://www.pinkfloyd.com/)
 
 # Q
 
