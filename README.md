@@ -112,6 +112,7 @@ A curated list of awesome singer official portals.
     - [Queen](#queen)
 - [R](#r)
     - [Radwimps](#radwimps)
+    - [Red Hot Chili Peppers](#red-hot-chili-peppers)
     - [Rich Chigga](#rich-chigga)
     - [Ricky Martin](#ricky-martin)
     - [Rihanna](#rihanna)
@@ -728,6 +729,12 @@ A curated list of awesome singer official portals.
 *Radwimps is a Japanese rock band, who debuted independently in 2003 and later on major label Toshiba EMI in 2005.*
 
 * [Radwimps](http://radwimps.jp/)
+
+## Red Hot Chili Peppers
+
+*Red Hot Chili Peppers are an American funk rock band formed in Los Angeles in 1983. The group's musical style primarily consists of rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock. When played live, their music incorporates elements of jam band due to the improvised nature of many of their performances.*
+
+* [Red Hot Chili Peppers](http://redhotchilipeppers.com/)
 
 ## Rich Chigga
 
