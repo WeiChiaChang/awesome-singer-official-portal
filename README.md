@@ -133,7 +133,6 @@ A curated list of awesome singer official portals.
     - [Takashi Murkami](#takashi-murkami)
     - [Taylor Swift](#taylor-swift)
     - [The Beatles](#the-beatles)
-    - [The Prodigy](#the-prodigy)
     - [The Rolling Stones](#the-rolling-stones)
     - [toe](#toe)
     - [Toki Asako](#toki-asako)
@@ -854,12 +853,6 @@ A curated list of awesome singer official portals.
 *The Rolling Stones are an English rock band formed in London in 1962.*
 
 * [The Rolling Stones](http://www.rollingstones.com/)
-
-## The Prodigy
-
-*The Prodigy are an English electronic dance music band from Braintree, Essex, formed in 1990.*
-
-* [The Prodigy](https://theprodigy.com/)
 
 ## toe
 
