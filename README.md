@@ -14,6 +14,7 @@ A curated list of awesome singer official portals.
     - [Aimer](#aimer)
     - [Ai Otsuka](#ai-otsuka)
     - [Alan Walker](#alan-walker)
+    - [Alice Merton](#alice-merton)
     - [Amazarashi](#amazarashi)
     - [Avril Lavigne](#avril-lavigne)
 - [B](#b)
@@ -203,6 +204,12 @@ A curated list of awesome singer official portals.
 *Alan Olav Walker, formerly known as DJ Walkzz, is a Norwegian record producer and DJ.*
 
 * [Alan Walker](http://alanwalker.no/)
+
+## Alice Merton
+
+*Alice Merton is a German-Canadian-British singer and songwriter.*
+
+* [Alice Merton](https://www.alicemerton.com/)
 
 ## Amazarashi
 
