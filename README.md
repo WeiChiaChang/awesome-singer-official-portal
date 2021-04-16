@@ -96,6 +96,7 @@ A curated list of awesome singer official portals.
 - [N](#n)
     - [Namie Amuro](#namie-amuro)
     - [Nana Mizuki](#nana-mizuki)
+    - [Nelly Furtado](#nelly-furtado)
 - [O](#o)
     - [OK Go](#ok-go)
     - [One Direction](#one-direction)
@@ -648,6 +649,12 @@ A curated list of awesome singer official portals.
 *Nana Mizuki is a Japanese voice actress and singer represented by the agency Sigma Seven.*
 
 * [Nana Mizuki](https://www.mizukinana.jp/)
+
+## Nelly Furtado
+
+*Nelly Kim Furtado is a Canadian singer and songwriter.*
+
+* [Nelly Furtado](https://www.nellyfurtado.com/)
 
 # O
 
