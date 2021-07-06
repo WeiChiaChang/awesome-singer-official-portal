@@ -29,6 +29,7 @@ A curated list of awesome singer official portals.
     - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
+    - [Coldrain](#coldrain)
 - [D](#d)
     - [Daft Punk](#daft-punk)
     - [DAOKO](#daoko)
@@ -127,6 +128,7 @@ A curated list of awesome singer official portals.
     - [Snoop Dogg](#snoop-dogg)
     - [Sōtaisei Riron](#sōtaisei-riron)
     - [Spangle call Lilli line](#spangle-call-lilli-line)
+    - [Survive Said The Prophet](#survive-said-the-prophet)
     - [SPYAIR](#spyair)
 - [T](#t)
     - [Takashi Murkami](#takashi-murkami)
@@ -290,6 +292,12 @@ A curated list of awesome singer official portals.
 *Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London.*
 
 * [Coldplay](http://coldplay.com/)
+
+## Coldrain
+
+*Coldrain are a Japanese metalcore band from Nagoya, formed in 2007. The band mixes melodic singing with screams typical of the post-hardcore genre.*
+
+* [Coldrain](http://coldrain.jp/home/)
 
 # D
 
@@ -814,6 +822,12 @@ A curated list of awesome singer official portals.
 *Spangle call Lilli line is a three-member Japanese band, formed in 1998 in Shimokitazawa.*
 
 * [Spangle call Lilli line](http://www.lilliline.com/)
+
+## Survive Said The Prophet
+
+*Survive Said the Prophet is a Jrock band that formed in Tokyo in 2011 and is currently under JMST.*
+
+* [Survive Said The Prophet](http://survivesaidtheprophet.com/merch/)
 
 ## SPYAIR
 
