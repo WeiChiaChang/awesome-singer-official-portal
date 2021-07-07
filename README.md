@@ -110,6 +110,7 @@ A curated list of awesome singer official portals.
 - [Q](#q)
     - [Queen](#queen)
 - [R](#r)
+    - [Radiohead](#radiohead)
     - [Radwimps](#radwimps)
     - [Red Hot Chili Peppers](#red-hot-chili-peppers)
     - [Rich Chigga](#rich-chigga)
@@ -716,6 +717,12 @@ A curated list of awesome singer official portals.
 * [Queen](http://www.queenonline.com/)
 
 # R
+
+## Radiohead
+
+*Radiohead are an English rock band from Abingdon, Oxfordshire, formed in 1985.*
+
+* [Radiohead](http://www.radiohead.com/)
 
 ## Radwimps
 
